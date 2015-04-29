@@ -1,0 +1,613 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<weatherdata>
+<location>
+<name>Copenhagen</name>
+<type>Capital</type>
+<country>Denmark</country>
+<timezone id="Europe/Copenhagen" utcoffsetMinutes="120"/>
+<location altitude="14" latitude="55.67594" longitude="12.56553" geobase="geonames" geobaseid="2618425"/>
+</location>
+<credit>
+<!--
+In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.
+-->
+<!--
+Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/
+-->
+<link text="Weather forecast from yr.no, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/"/>
+</credit>
+<links>
+<link id="xmlSource" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/forecast.xml"/>
+<link id="xmlSourceHourByHour" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/forecast_hour_by_hour.xml"/>
+<link id="overview" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/"/>
+<link id="hourByHour" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/hour_by_hour"/>
+<link id="longTermForecast" url="http://www.yr.no/place/Denmark/Capital/Copenhagen/long"/>
+</links>
+<meta>
+<lastupdate>2015-04-22T04:29:00</lastupdate>
+<nextupdate>2015-04-22T12:00:00</nextupdate>
+</meta>
+<sun rise="2015-04-22T05:49:03" set="2015-04-22T20:28:55"/>
+<forecast>
+<tabular>
+<time from="2015-04-22T10:00:00" to="2015-04-22T11:00:00">
+<!--
+ Valid from 2015-04-22T10:00:00 to 2015-04-22T11:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T10:00:00  -->
+<windDirection deg="324.8" code="NW" name="Northwest"/>
+<windSpeed mps="2.1" name="Light breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1024.7"/>
+</time>
+<time from="2015-04-22T11:00:00" to="2015-04-22T12:00:00">
+<!--
+ Valid from 2015-04-22T11:00:00 to 2015-04-22T12:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T11:00:00  -->
+<windDirection deg="326.6" code="NNW" name="North-northwest"/>
+<windSpeed mps="2.3" name="Light breeze"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1024.7"/>
+</time>
+<time from="2015-04-22T12:00:00" to="2015-04-22T13:00:00">
+<!--
+ Valid from 2015-04-22T12:00:00 to 2015-04-22T13:00:00 
+-->
+<symbol number="2" numberEx="2" name="Fair" var="02d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T12:00:00  -->
+<windDirection deg="21.0" code="NNE" name="North-northeast"/>
+<windSpeed mps="1.3" name="Light air"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1024.5"/>
+</time>
+<time from="2015-04-22T13:00:00" to="2015-04-22T14:00:00">
+<!--
+ Valid from 2015-04-22T13:00:00 to 2015-04-22T14:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T13:00:00  -->
+<windDirection deg="55.1" code="NE" name="Northeast"/>
+<windSpeed mps="1.8" name="Light breeze"/>
+<temperature unit="celsius" value="14"/>
+<pressure unit="hPa" value="1024.3"/>
+</time>
+<time from="2015-04-22T14:00:00" to="2015-04-22T15:00:00">
+<!--
+ Valid from 2015-04-22T14:00:00 to 2015-04-22T15:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T14:00:00  -->
+<windDirection deg="73.8" code="ENE" name="East-northeast"/>
+<windSpeed mps="1.5" name="Light air"/>
+<temperature unit="celsius" value="15"/>
+<pressure unit="hPa" value="1023.9"/>
+</time>
+<time from="2015-04-22T15:00:00" to="2015-04-22T16:00:00">
+<!--
+ Valid from 2015-04-22T15:00:00 to 2015-04-22T16:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T15:00:00  -->
+<windDirection deg="187.0" code="S" name="South"/>
+<windSpeed mps="2.9" name="Light breeze"/>
+<temperature unit="celsius" value="16"/>
+<pressure unit="hPa" value="1023.5"/>
+</time>
+<time from="2015-04-22T16:00:00" to="2015-04-22T17:00:00">
+<!--
+ Valid from 2015-04-22T16:00:00 to 2015-04-22T17:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T16:00:00  -->
+<windDirection deg="237.9" code="WSW" name="West-southwest"/>
+<windSpeed mps="2.4" name="Light breeze"/>
+<temperature unit="celsius" value="16"/>
+<pressure unit="hPa" value="1022.8"/>
+</time>
+<time from="2015-04-22T17:00:00" to="2015-04-22T18:00:00">
+<!--
+ Valid from 2015-04-22T17:00:00 to 2015-04-22T18:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T17:00:00  -->
+<windDirection deg="291.2" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.7" name="Gentle breeze"/>
+<temperature unit="celsius" value="15"/>
+<pressure unit="hPa" value="1022.3"/>
+</time>
+<time from="2015-04-22T18:00:00" to="2015-04-22T19:00:00">
+<!--
+ Valid from 2015-04-22T18:00:00 to 2015-04-22T19:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T18:00:00  -->
+<windDirection deg="296.9" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.1" name="Light breeze"/>
+<temperature unit="celsius" value="15"/>
+<pressure unit="hPa" value="1021.9"/>
+</time>
+<time from="2015-04-22T19:00:00" to="2015-04-22T20:00:00">
+<!--
+ Valid from 2015-04-22T19:00:00 to 2015-04-22T20:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T19:00:00  -->
+<windDirection deg="289.4" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.8" name="Gentle breeze"/>
+<temperature unit="celsius" value="15"/>
+<pressure unit="hPa" value="1021.4"/>
+</time>
+<time from="2015-04-22T20:00:00" to="2015-04-22T21:00:00">
+<!--
+ Valid from 2015-04-22T20:00:00 to 2015-04-22T21:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="01d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T20:00:00  -->
+<windDirection deg="284.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.0" name="Light breeze"/>
+<temperature unit="celsius" value="14"/>
+<pressure unit="hPa" value="1021.2"/>
+</time>
+<time from="2015-04-22T21:00:00" to="2015-04-22T22:00:00">
+<!--
+ Valid from 2015-04-22T21:00:00 to 2015-04-22T22:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="mf/01n.11"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T21:00:00  -->
+<windDirection deg="261.3" code="W" name="West"/>
+<windSpeed mps="2.8" name="Light breeze"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1021.1"/>
+</time>
+<time from="2015-04-22T22:00:00" to="2015-04-22T23:00:00">
+<!--
+ Valid from 2015-04-22T22:00:00 to 2015-04-22T23:00:00 
+-->
+<symbol number="1" numberEx="1" name="Clear sky" var="mf/01n.11"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T22:00:00  -->
+<windDirection deg="253.1" code="WSW" name="West-southwest"/>
+<windSpeed mps="3.4" name="Gentle breeze"/>
+<temperature unit="celsius" value="12"/>
+<pressure unit="hPa" value="1020.7"/>
+</time>
+<time from="2015-04-22T23:00:00" to="2015-04-23T00:00:00">
+<!--
+ Valid from 2015-04-22T23:00:00 to 2015-04-23T00:00:00 
+-->
+<symbol number="2" numberEx="2" name="Fair" var="mf/02n.11"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-22T23:00:00  -->
+<windDirection deg="259.1" code="W" name="West"/>
+<windSpeed mps="3.3" name="Light breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1020.2"/>
+</time>
+<time from="2015-04-23T00:00:00" to="2015-04-23T01:00:00">
+<!--
+ Valid from 2015-04-23T00:00:00 to 2015-04-23T01:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T00:00:00  -->
+<windDirection deg="257.8" code="WSW" name="West-southwest"/>
+<windSpeed mps="3.5" name="Gentle breeze"/>
+<temperature unit="celsius" value="10"/>
+<pressure unit="hPa" value="1019.5"/>
+</time>
+<time from="2015-04-23T01:00:00" to="2015-04-23T02:00:00">
+<!--
+ Valid from 2015-04-23T01:00:00 to 2015-04-23T02:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T01:00:00  -->
+<windDirection deg="262.0" code="W" name="West"/>
+<windSpeed mps="3.4" name="Gentle breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1018.8"/>
+</time>
+<time from="2015-04-23T02:00:00" to="2015-04-23T03:00:00">
+<!--
+ Valid from 2015-04-23T02:00:00 to 2015-04-23T03:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T02:00:00  -->
+<windDirection deg="257.9" code="WSW" name="West-southwest"/>
+<windSpeed mps="3.2" name="Light breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1018.0"/>
+</time>
+<time from="2015-04-23T03:00:00" to="2015-04-23T04:00:00">
+<!--
+ Valid from 2015-04-23T03:00:00 to 2015-04-23T04:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T03:00:00  -->
+<windDirection deg="273.4" code="W" name="West"/>
+<windSpeed mps="4.0" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1017.0"/>
+</time>
+<time from="2015-04-23T04:00:00" to="2015-04-23T05:00:00">
+<!--
+ Valid from 2015-04-23T04:00:00 to 2015-04-23T05:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T04:00:00  -->
+<windDirection deg="275.9" code="W" name="West"/>
+<windSpeed mps="4.1" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1016.0"/>
+</time>
+<time from="2015-04-23T05:00:00" to="2015-04-23T06:00:00">
+<!--
+ Valid from 2015-04-23T05:00:00 to 2015-04-23T06:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.15"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T05:00:00  -->
+<windDirection deg="277.0" code="W" name="West"/>
+<windSpeed mps="4.4" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1015.4"/>
+</time>
+<time from="2015-04-23T06:00:00" to="2015-04-23T07:00:00">
+<!--
+ Valid from 2015-04-23T06:00:00 to 2015-04-23T07:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T06:00:00  -->
+<windDirection deg="282.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="4.9" name="Gentle breeze"/>
+<temperature unit="celsius" value="7"/>
+<pressure unit="hPa" value="1015.2"/>
+</time>
+<time from="2015-04-23T07:00:00" to="2015-04-23T08:00:00">
+<!--
+ Valid from 2015-04-23T07:00:00 to 2015-04-23T08:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T07:00:00  -->
+<windDirection deg="282.8" code="WNW" name="West-northwest"/>
+<windSpeed mps="5.1" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1015.0"/>
+</time>
+<time from="2015-04-23T08:00:00" to="2015-04-23T09:00:00">
+<!--
+ Valid from 2015-04-23T08:00:00 to 2015-04-23T09:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T08:00:00  -->
+<windDirection deg="288.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="5.7" name="Moderate breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1015.0"/>
+</time>
+<time from="2015-04-23T09:00:00" to="2015-04-23T10:00:00">
+<!--
+ Valid from 2015-04-23T09:00:00 to 2015-04-23T10:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T09:00:00  -->
+<windDirection deg="299.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="5.9" name="Moderate breeze"/>
+<temperature unit="celsius" value="10"/>
+<pressure unit="hPa" value="1014.9"/>
+</time>
+<time from="2015-04-23T10:00:00" to="2015-04-23T11:00:00">
+<!--
+ Valid from 2015-04-23T10:00:00 to 2015-04-23T11:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T10:00:00  -->
+<windDirection deg="309.2" code="NW" name="Northwest"/>
+<windSpeed mps="6.6" name="Moderate breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1014.7"/>
+</time>
+<time from="2015-04-23T11:00:00" to="2015-04-23T12:00:00">
+<!--
+ Valid from 2015-04-23T11:00:00 to 2015-04-23T12:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T11:00:00  -->
+<windDirection deg="306.7" code="NW" name="Northwest"/>
+<windSpeed mps="6.6" name="Moderate breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1014.6"/>
+</time>
+<time from="2015-04-23T12:00:00" to="2015-04-23T13:00:00">
+<!--
+ Valid from 2015-04-23T12:00:00 to 2015-04-23T13:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T12:00:00  -->
+<windDirection deg="304.5" code="NW" name="Northwest"/>
+<windSpeed mps="6.5" name="Moderate breeze"/>
+<temperature unit="celsius" value="12"/>
+<pressure unit="hPa" value="1014.4"/>
+</time>
+<time from="2015-04-23T13:00:00" to="2015-04-23T14:00:00">
+<!--
+ Valid from 2015-04-23T13:00:00 to 2015-04-23T14:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T13:00:00  -->
+<windDirection deg="300.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="6.8" name="Moderate breeze"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1014.1"/>
+</time>
+<time from="2015-04-23T14:00:00" to="2015-04-23T15:00:00">
+<!--
+ Valid from 2015-04-23T14:00:00 to 2015-04-23T15:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T14:00:00  -->
+<windDirection deg="296.8" code="WNW" name="West-northwest"/>
+<windSpeed mps="7.1" name="Moderate breeze"/>
+<temperature unit="celsius" value="12"/>
+<pressure unit="hPa" value="1014.0"/>
+</time>
+<time from="2015-04-23T15:00:00" to="2015-04-23T16:00:00">
+<!--
+ Valid from 2015-04-23T15:00:00 to 2015-04-23T16:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T15:00:00  -->
+<windDirection deg="295.8" code="WNW" name="West-northwest"/>
+<windSpeed mps="7.2" name="Moderate breeze"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1013.7"/>
+</time>
+<time from="2015-04-23T16:00:00" to="2015-04-23T17:00:00">
+<!--
+ Valid from 2015-04-23T16:00:00 to 2015-04-23T17:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T16:00:00  -->
+<windDirection deg="293.9" code="WNW" name="West-northwest"/>
+<windSpeed mps="7.3" name="Moderate breeze"/>
+<temperature unit="celsius" value="13"/>
+<pressure unit="hPa" value="1013.3"/>
+</time>
+<time from="2015-04-23T17:00:00" to="2015-04-23T18:00:00">
+<!--
+ Valid from 2015-04-23T17:00:00 to 2015-04-23T18:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T17:00:00  -->
+<windDirection deg="293.8" code="WNW" name="West-northwest"/>
+<windSpeed mps="7.3" name="Moderate breeze"/>
+<temperature unit="celsius" value="12"/>
+<pressure unit="hPa" value="1012.9"/>
+</time>
+<time from="2015-04-23T18:00:00" to="2015-04-23T19:00:00">
+<!--
+ Valid from 2015-04-23T18:00:00 to 2015-04-23T19:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T18:00:00  -->
+<windDirection deg="296.9" code="WNW" name="West-northwest"/>
+<windSpeed mps="7.4" name="Moderate breeze"/>
+<temperature unit="celsius" value="12"/>
+<pressure unit="hPa" value="1012.6"/>
+</time>
+<time from="2015-04-23T19:00:00" to="2015-04-23T20:00:00">
+<!--
+ Valid from 2015-04-23T19:00:00 to 2015-04-23T20:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T19:00:00  -->
+<windDirection deg="297.8" code="WNW" name="West-northwest"/>
+<windSpeed mps="6.8" name="Moderate breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1012.3"/>
+</time>
+<time from="2015-04-23T20:00:00" to="2015-04-23T21:00:00">
+<!--
+ Valid from 2015-04-23T20:00:00 to 2015-04-23T21:00:00 
+-->
+<symbol number="3" numberEx="3" name="Partly cloudy" var="03d"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T20:00:00  -->
+<windDirection deg="297.6" code="WNW" name="West-northwest"/>
+<windSpeed mps="6.1" name="Moderate breeze"/>
+<temperature unit="celsius" value="11"/>
+<pressure unit="hPa" value="1012.2"/>
+</time>
+<time from="2015-04-23T21:00:00" to="2015-04-23T22:00:00">
+<!--
+ Valid from 2015-04-23T21:00:00 to 2015-04-23T22:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T21:00:00  -->
+<windDirection deg="300.9" code="WNW" name="West-northwest"/>
+<windSpeed mps="6.0" name="Moderate breeze"/>
+<temperature unit="celsius" value="10"/>
+<pressure unit="hPa" value="1012.2"/>
+</time>
+<time from="2015-04-23T22:00:00" to="2015-04-23T23:00:00">
+<!--
+ Valid from 2015-04-23T22:00:00 to 2015-04-23T23:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T22:00:00  -->
+<windDirection deg="291.3" code="WNW" name="West-northwest"/>
+<windSpeed mps="5.6" name="Moderate breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1012.3"/>
+</time>
+<time from="2015-04-23T23:00:00" to="2015-04-24T00:00:00">
+<!--
+ Valid from 2015-04-23T23:00:00 to 2015-04-24T00:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-23T23:00:00  -->
+<windDirection deg="308.6" code="NW" name="Northwest"/>
+<windSpeed mps="5.4" name="Gentle breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1012.5"/>
+</time>
+<time from="2015-04-24T00:00:00" to="2015-04-24T01:00:00">
+<!--
+ Valid from 2015-04-24T00:00:00 to 2015-04-24T01:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T00:00:00  -->
+<windDirection deg="296.2" code="WNW" name="West-northwest"/>
+<windSpeed mps="4.9" name="Gentle breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1012.5"/>
+</time>
+<time from="2015-04-24T01:00:00" to="2015-04-24T02:00:00">
+<!--
+ Valid from 2015-04-24T01:00:00 to 2015-04-24T02:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T01:00:00  -->
+<windDirection deg="291.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="4.3" name="Gentle breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1012.4"/>
+</time>
+<time from="2015-04-24T02:00:00" to="2015-04-24T03:00:00">
+<!--
+ Valid from 2015-04-24T02:00:00 to 2015-04-24T03:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T02:00:00  -->
+<windDirection deg="291.7" code="WNW" name="West-northwest"/>
+<windSpeed mps="4.6" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1012.4"/>
+</time>
+<time from="2015-04-24T03:00:00" to="2015-04-24T04:00:00">
+<!--
+ Valid from 2015-04-24T03:00:00 to 2015-04-24T04:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T03:00:00  -->
+<windDirection deg="304.4" code="NW" name="Northwest"/>
+<windSpeed mps="4.1" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1012.2"/>
+</time>
+<time from="2015-04-24T04:00:00" to="2015-04-24T05:00:00">
+<!--
+ Valid from 2015-04-24T04:00:00 to 2015-04-24T05:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T04:00:00  -->
+<windDirection deg="311.9" code="NW" name="Northwest"/>
+<windSpeed mps="3.5" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1011.9"/>
+</time>
+<time from="2015-04-24T05:00:00" to="2015-04-24T06:00:00">
+<!--
+ Valid from 2015-04-24T05:00:00 to 2015-04-24T06:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T05:00:00  -->
+<windDirection deg="303.1" code="WNW" name="West-northwest"/>
+<windSpeed mps="2.9" name="Light breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1011.6"/>
+</time>
+<time from="2015-04-24T06:00:00" to="2015-04-24T07:00:00">
+<!--
+ Valid from 2015-04-24T06:00:00 to 2015-04-24T07:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T06:00:00  -->
+<windDirection deg="321.2" code="NW" name="Northwest"/>
+<windSpeed mps="3.7" name="Gentle breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1011.6"/>
+</time>
+<time from="2015-04-24T07:00:00" to="2015-04-24T08:00:00">
+<!--
+ Valid from 2015-04-24T07:00:00 to 2015-04-24T08:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T07:00:00  -->
+<windDirection deg="297.5" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.1" name="Light breeze"/>
+<temperature unit="celsius" value="8"/>
+<pressure unit="hPa" value="1011.5"/>
+</time>
+<time from="2015-04-24T08:00:00" to="2015-04-24T09:00:00">
+<!--
+ Valid from 2015-04-24T08:00:00 to 2015-04-24T09:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T08:00:00  -->
+<windDirection deg="289.0" code="WNW" name="West-northwest"/>
+<windSpeed mps="3.2" name="Light breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1011.5"/>
+</time>
+<time from="2015-04-24T09:00:00" to="2015-04-24T10:00:00">
+<!--
+ Valid from 2015-04-24T09:00:00 to 2015-04-24T10:00:00 
+-->
+<symbol number="4" numberEx="4" name="Cloudy" var="04"/>
+<precipitation value="0"/>
+<!--  Valid at 2015-04-24T09:00:00  -->
+<windDirection deg="288.6" code="WNW" name="West-northwest"/>
+<windSpeed mps="2.7" name="Light breeze"/>
+<temperature unit="celsius" value="9"/>
+<pressure unit="hPa" value="1011.4"/>
+</time>
+</tabular>
+</forecast>
+</weatherdata>

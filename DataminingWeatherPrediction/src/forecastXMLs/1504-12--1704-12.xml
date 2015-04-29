@@ -1,0 +1,517 @@
+<weatherdata>
+	<location>
+		<name>København</name>
+		<type>Hovedstad</type>
+		<country>Danmark</country>
+		<timezone id="Europe/Copenhagen" utcoffsetMinutes="120" />
+		<location altitude="14" latitude="55.67594" longitude="12.56553"
+			geobase="geonames" geobaseid="2618425" />
+	</location>
+	<credit>
+		<!-- For å bruke gratis værdata fra yr.no, MÅ du vise følgende tekst godt 
+			synlig på nettsiden din. Teksten skal være en lenke til URL-en som er spesifisert. -->
+		<!-- Les mer om vilkår for bruk av gratis værdata + retningslinjer på http://om.yr.no/verdata/ -->
+		<link text="Værvarsel fra yr.no, levert av NRK og Meteorologisk institutt"
+			url="http://www.yr.no/sted/Danmark/Hovedstaden/København/" />
+	</credit>
+	<links>
+		<link id="xmlSource"
+			url="http://www.yr.no/sted/Danmark/Hovedstaden/København/varsel.xml" />
+		<link id="xmlSourceHourByHour"
+			url="http://www.yr.no/sted/Danmark/Hovedstaden/København/varsel_time_for_time.xml" />
+		<link id="overview" url="http://www.yr.no/sted/Danmark/Hovedstaden/København/" />
+		<link id="hourByHour"
+			url="http://www.yr.no/sted/Danmark/Hovedstaden/København/time_for_time.html" />
+		<link id="longTermForecast"
+			url="http://www.yr.no/sted/Danmark/Hovedstaden/København/langtidsvarsel.html" />
+	</links>
+	<meta>
+		<lastupdate>2015-04-15T10:33:00</lastupdate>
+		<nextupdate>2015-04-15T12:00:00</nextupdate>
+	</meta>
+	<sun rise="2015-04-15T06:06:12" set="2015-04-15T20:14:49" />
+	<forecast>
+		<tabular>
+			<time from="2015-04-15T12:00:00" to="2015-04-15T13:00:00">
+				<!-- Valid from 2015-04-15T12:00:00 to 2015-04-15T13:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T12:00:00 -->
+				<windDirection deg="226.3" code="SW" name="Sørvest" />
+				<windSpeed mps="4.8" name="Lett bris" />
+				<temperature unit="celsius" value="11" />
+				<pressure unit="hPa" value="1008.2" />
+			</time>
+			<time from="2015-04-15T13:00:00" to="2015-04-15T14:00:00">
+				<!-- Valid from 2015-04-15T13:00:00 to 2015-04-15T14:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T13:00:00 -->
+				<windDirection deg="232.9" code="SW" name="Sørvest" />
+				<windSpeed mps="5.8" name="Laber bris" />
+				<temperature unit="celsius" value="12" />
+				<pressure unit="hPa" value="1007.5" />
+			</time>
+			<time from="2015-04-15T14:00:00" to="2015-04-15T15:00:00">
+				<!-- Valid from 2015-04-15T14:00:00 to 2015-04-15T15:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T14:00:00 -->
+				<windDirection deg="251.5" code="WSW" name="Vest-sørvest" />
+				<windSpeed mps="6.7" name="Laber bris" />
+				<temperature unit="celsius" value="14" />
+				<pressure unit="hPa" value="1006.5" />
+			</time>
+			<time from="2015-04-15T15:00:00" to="2015-04-15T16:00:00">
+				<!-- Valid from 2015-04-15T15:00:00 to 2015-04-15T16:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T15:00:00 -->
+				<windDirection deg="263.2" code="W" name="Vest" />
+				<windSpeed mps="7.5" name="Laber bris" />
+				<temperature unit="celsius" value="15" />
+				<pressure unit="hPa" value="1005.8" />
+			</time>
+			<time from="2015-04-15T16:00:00" to="2015-04-15T17:00:00">
+				<!-- Valid from 2015-04-15T16:00:00 to 2015-04-15T17:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T16:00:00 -->
+				<windDirection deg="264.6" code="W" name="Vest" />
+				<windSpeed mps="8.1" name="Frisk bris" />
+				<temperature unit="celsius" value="15" />
+				<pressure unit="hPa" value="1005.0" />
+			</time>
+			<time from="2015-04-15T17:00:00" to="2015-04-15T18:00:00">
+				<!-- Valid from 2015-04-15T17:00:00 to 2015-04-15T18:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T17:00:00 -->
+				<windDirection deg="253.5" code="WSW" name="Vest-sørvest" />
+				<windSpeed mps="8.1" name="Frisk bris" />
+				<temperature unit="celsius" value="15" />
+				<pressure unit="hPa" value="1003.9" />
+			</time>
+			<time from="2015-04-15T18:00:00" to="2015-04-15T19:00:00">
+				<!-- Valid from 2015-04-15T18:00:00 to 2015-04-15T19:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T18:00:00 -->
+				<windDirection deg="257.9" code="WSW" name="Vest-sørvest" />
+				<windSpeed mps="8.7" name="Frisk bris" />
+				<temperature unit="celsius" value="14" />
+				<pressure unit="hPa" value="1003.3" />
+			</time>
+			<time from="2015-04-15T19:00:00" to="2015-04-15T20:00:00">
+				<!-- Valid from 2015-04-15T19:00:00 to 2015-04-15T20:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0.1" minvalue="0" maxvalue="0.1" />
+				<!-- Valid at 2015-04-15T19:00:00 -->
+				<windDirection deg="273.5" code="W" name="Vest" />
+				<windSpeed mps="8.7" name="Frisk bris" />
+				<temperature unit="celsius" value="12" />
+				<pressure unit="hPa" value="1003.8" />
+			</time>
+			<time from="2015-04-15T20:00:00" to="2015-04-15T21:00:00">
+				<!-- Valid from 2015-04-15T20:00:00 to 2015-04-15T21:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T20:00:00 -->
+				<windDirection deg="278.8" code="W" name="Vest" />
+				<windSpeed mps="8.7" name="Frisk bris" />
+				<temperature unit="celsius" value="10" />
+				<pressure unit="hPa" value="1004.3" />
+			</time>
+			<time from="2015-04-15T21:00:00" to="2015-04-15T22:00:00">
+				<!-- Valid from 2015-04-15T21:00:00 to 2015-04-15T22:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="mf/02n.87" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T21:00:00 -->
+				<windDirection deg="288.0" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="8.8" name="Frisk bris" />
+				<temperature unit="celsius" value="9" />
+				<pressure unit="hPa" value="1005.2" />
+			</time>
+			<time from="2015-04-15T22:00:00" to="2015-04-15T23:00:00">
+				<!-- Valid from 2015-04-15T22:00:00 to 2015-04-15T23:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.87" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T22:00:00 -->
+				<windDirection deg="288.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="8.2" name="Frisk bris" />
+				<temperature unit="celsius" value="8" />
+				<pressure unit="hPa" value="1005.8" />
+			</time>
+			<time from="2015-04-15T23:00:00" to="2015-04-16T00:00:00">
+				<!-- Valid from 2015-04-15T23:00:00 to 2015-04-16T00:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.87" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-15T23:00:00 -->
+				<windDirection deg="291.4" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.3" name="Laber bris" />
+				<temperature unit="celsius" value="7" />
+				<pressure unit="hPa" value="1006.5" />
+			</time>
+			<time from="2015-04-16T00:00:00" to="2015-04-16T01:00:00">
+				<!-- Valid from 2015-04-16T00:00:00 to 2015-04-16T01:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T00:00:00 -->
+				<windDirection deg="291.3" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.1" name="Laber bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1007.2" />
+			</time>
+			<time from="2015-04-16T01:00:00" to="2015-04-16T02:00:00">
+				<!-- Valid from 2015-04-16T01:00:00 to 2015-04-16T02:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T01:00:00 -->
+				<windDirection deg="293.2" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.0" name="Laber bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1007.7" />
+			</time>
+			<time from="2015-04-16T02:00:00" to="2015-04-16T03:00:00">
+				<!-- Valid from 2015-04-16T02:00:00 to 2015-04-16T03:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T02:00:00 -->
+				<windDirection deg="294.4" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.8" name="Laber bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1008.2" />
+			</time>
+			<time from="2015-04-16T03:00:00" to="2015-04-16T04:00:00">
+				<!-- Valid from 2015-04-16T03:00:00 to 2015-04-16T04:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="mf/01n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T03:00:00 -->
+				<windDirection deg="296.6" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.4" name="Laber bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1008.6" />
+			</time>
+			<time from="2015-04-16T04:00:00" to="2015-04-16T05:00:00">
+				<!-- Valid from 2015-04-16T04:00:00 to 2015-04-16T05:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T04:00:00 -->
+				<windDirection deg="297.3" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.4" name="Laber bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1008.9" />
+			</time>
+			<time from="2015-04-16T05:00:00" to="2015-04-16T06:00:00">
+				<!-- Valid from 2015-04-16T05:00:00 to 2015-04-16T06:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T05:00:00 -->
+				<windDirection deg="296.0" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.7" name="Laber bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1009.1" />
+			</time>
+			<time from="2015-04-16T06:00:00" to="2015-04-16T07:00:00">
+				<!-- Valid from 2015-04-16T06:00:00 to 2015-04-16T07:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T06:00:00 -->
+				<windDirection deg="295.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.5" name="Laber bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1009.2" />
+			</time>
+			<time from="2015-04-16T07:00:00" to="2015-04-16T08:00:00">
+				<!-- Valid from 2015-04-16T07:00:00 to 2015-04-16T08:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T07:00:00 -->
+				<windDirection deg="291.8" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.3" name="Laber bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1009.3" />
+			</time>
+			<time from="2015-04-16T08:00:00" to="2015-04-16T09:00:00">
+				<!-- Valid from 2015-04-16T08:00:00 to 2015-04-16T09:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T08:00:00 -->
+				<windDirection deg="289.6" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.5" name="Laber bris" />
+				<temperature unit="celsius" value="7" />
+				<pressure unit="hPa" value="1009.6" />
+			</time>
+			<time from="2015-04-16T09:00:00" to="2015-04-16T10:00:00">
+				<!-- Valid from 2015-04-16T09:00:00 to 2015-04-16T10:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T09:00:00 -->
+				<windDirection deg="290.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.9" name="Laber bris" />
+				<temperature unit="celsius" value="7" />
+				<pressure unit="hPa" value="1009.9" />
+			</time>
+			<time from="2015-04-16T10:00:00" to="2015-04-16T11:00:00">
+				<!-- Valid from 2015-04-16T10:00:00 to 2015-04-16T11:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T10:00:00 -->
+				<windDirection deg="289.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.9" name="Laber bris" />
+				<temperature unit="celsius" value="8" />
+				<pressure unit="hPa" value="1010.1" />
+			</time>
+			<time from="2015-04-16T11:00:00" to="2015-04-16T12:00:00">
+				<!-- Valid from 2015-04-16T11:00:00 to 2015-04-16T12:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T11:00:00 -->
+				<windDirection deg="289.9" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.0" name="Laber bris" />
+				<temperature unit="celsius" value="9" />
+				<pressure unit="hPa" value="1010.3" />
+			</time>
+			<time from="2015-04-16T12:00:00" to="2015-04-16T13:00:00">
+				<!-- Valid from 2015-04-16T12:00:00 to 2015-04-16T13:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T12:00:00 -->
+				<windDirection deg="292.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.0" name="Laber bris" />
+				<temperature unit="celsius" value="9" />
+				<pressure unit="hPa" value="1010.3" />
+			</time>
+			<time from="2015-04-16T13:00:00" to="2015-04-16T14:00:00">
+				<!-- Valid from 2015-04-16T13:00:00 to 2015-04-16T14:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T13:00:00 -->
+				<windDirection deg="292.8" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.9" name="Laber bris" />
+				<temperature unit="celsius" value="10" />
+				<pressure unit="hPa" value="1010.6" />
+			</time>
+			<time from="2015-04-16T14:00:00" to="2015-04-16T15:00:00">
+				<!-- Valid from 2015-04-16T14:00:00 to 2015-04-16T15:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="02d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T14:00:00 -->
+				<windDirection deg="293.4" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.9" name="Laber bris" />
+				<temperature unit="celsius" value="10" />
+				<pressure unit="hPa" value="1010.7" />
+			</time>
+			<time from="2015-04-16T15:00:00" to="2015-04-16T16:00:00">
+				<!-- Valid from 2015-04-16T15:00:00 to 2015-04-16T16:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="02d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T15:00:00 -->
+				<windDirection deg="294.1" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.0" name="Laber bris" />
+				<temperature unit="celsius" value="11" />
+				<pressure unit="hPa" value="1010.7" />
+			</time>
+			<time from="2015-04-16T16:00:00" to="2015-04-16T17:00:00">
+				<!-- Valid from 2015-04-16T16:00:00 to 2015-04-16T17:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="02d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T16:00:00 -->
+				<windDirection deg="294.3" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.2" name="Laber bris" />
+				<temperature unit="celsius" value="11" />
+				<pressure unit="hPa" value="1010.5" />
+			</time>
+			<time from="2015-04-16T17:00:00" to="2015-04-16T18:00:00">
+				<!-- Valid from 2015-04-16T17:00:00 to 2015-04-16T18:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T17:00:00 -->
+				<windDirection deg="295.9" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.3" name="Laber bris" />
+				<temperature unit="celsius" value="11" />
+				<pressure unit="hPa" value="1010.3" />
+			</time>
+			<time from="2015-04-16T18:00:00" to="2015-04-16T19:00:00">
+				<!-- Valid from 2015-04-16T18:00:00 to 2015-04-16T19:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T18:00:00 -->
+				<windDirection deg="298.4" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="7.2" name="Laber bris" />
+				<temperature unit="celsius" value="10" />
+				<pressure unit="hPa" value="1010.3" />
+			</time>
+			<time from="2015-04-16T19:00:00" to="2015-04-16T20:00:00">
+				<!-- Valid from 2015-04-16T19:00:00 to 2015-04-16T20:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="03d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T19:00:00 -->
+				<windDirection deg="301.5" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="6.6" name="Laber bris" />
+				<temperature unit="celsius" value="10" />
+				<pressure unit="hPa" value="1010.1" />
+			</time>
+			<time from="2015-04-16T20:00:00" to="2015-04-16T21:00:00">
+				<!-- Valid from 2015-04-16T20:00:00 to 2015-04-16T21:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T20:00:00 -->
+				<windDirection deg="310.3" code="NW" name="Nordvest" />
+				<windSpeed mps="5.4" name="Lett bris" />
+				<temperature unit="celsius" value="9" />
+				<pressure unit="hPa" value="1010.1" />
+			</time>
+			<time from="2015-04-16T21:00:00" to="2015-04-16T22:00:00">
+				<!-- Valid from 2015-04-16T21:00:00 to 2015-04-16T22:00:00 -->
+				<symbol number="4" numberEx="4" name="Skyet" var="04" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T21:00:00 -->
+				<windDirection deg="304.6" code="NW" name="Nordvest" />
+				<windSpeed mps="4.9" name="Lett bris" />
+				<temperature unit="celsius" value="8" />
+				<pressure unit="hPa" value="1010.3" />
+			</time>
+			<time from="2015-04-16T22:00:00" to="2015-04-16T23:00:00">
+				<!-- Valid from 2015-04-16T22:00:00 to 2015-04-16T23:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T22:00:00 -->
+				<windDirection deg="296.2" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="4.9" name="Lett bris" />
+				<temperature unit="celsius" value="8" />
+				<pressure unit="hPa" value="1010.5" />
+			</time>
+			<time from="2015-04-16T23:00:00" to="2015-04-17T00:00:00">
+				<!-- Valid from 2015-04-16T23:00:00 to 2015-04-17T00:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.91" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-16T23:00:00 -->
+				<windDirection deg="290.2" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="5.1" name="Lett bris" />
+				<temperature unit="celsius" value="7" />
+				<pressure unit="hPa" value="1010.5" />
+			</time>
+			<time from="2015-04-17T00:00:00" to="2015-04-17T01:00:00">
+				<!-- Valid from 2015-04-17T00:00:00 to 2015-04-17T01:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T00:00:00 -->
+				<windDirection deg="289.8" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="5.4" name="Lett bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1010.6" />
+			</time>
+			<time from="2015-04-17T01:00:00" to="2015-04-17T02:00:00">
+				<!-- Valid from 2015-04-17T01:00:00 to 2015-04-17T02:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="mf/02n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T01:00:00 -->
+				<windDirection deg="291.2" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="5.1" name="Lett bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1010.6" />
+			</time>
+			<time from="2015-04-17T02:00:00" to="2015-04-17T03:00:00">
+				<!-- Valid from 2015-04-17T02:00:00 to 2015-04-17T03:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="mf/02n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T02:00:00 -->
+				<windDirection deg="291.3" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="4.6" name="Lett bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1010.6" />
+			</time>
+			<time from="2015-04-17T03:00:00" to="2015-04-17T04:00:00">
+				<!-- Valid from 2015-04-17T03:00:00 to 2015-04-17T04:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="mf/02n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T03:00:00 -->
+				<windDirection deg="289.5" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="4.2" name="Lett bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1010.7" />
+			</time>
+			<time from="2015-04-17T04:00:00" to="2015-04-17T05:00:00">
+				<!-- Valid from 2015-04-17T04:00:00 to 2015-04-17T05:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T04:00:00 -->
+				<windDirection deg="288.0" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="4.2" name="Lett bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1010.5" />
+			</time>
+			<time from="2015-04-17T05:00:00" to="2015-04-17T06:00:00">
+				<!-- Valid from 2015-04-17T05:00:00 to 2015-04-17T06:00:00 -->
+				<symbol number="3" numberEx="3" name="Delvis skyet" var="mf/03n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T05:00:00 -->
+				<windDirection deg="297.6" code="WNW" name="Vest-nordvest" />
+				<windSpeed mps="4.1" name="Lett bris" />
+				<temperature unit="celsius" value="4" />
+				<pressure unit="hPa" value="1010.5" />
+			</time>
+			<time from="2015-04-17T06:00:00" to="2015-04-17T07:00:00">
+				<!-- Valid from 2015-04-17T06:00:00 to 2015-04-17T07:00:00 -->
+				<symbol number="2" numberEx="2" name="Lettskyet" var="mf/02n.94" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T06:00:00 -->
+				<windDirection deg="306.0" code="NW" name="Nordvest" />
+				<windSpeed mps="4.3" name="Lett bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1010.6" />
+			</time>
+			<time from="2015-04-17T07:00:00" to="2015-04-17T08:00:00">
+				<!-- Valid from 2015-04-17T07:00:00 to 2015-04-17T08:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="01d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T07:00:00 -->
+				<windDirection deg="304.3" code="NW" name="Nordvest" />
+				<windSpeed mps="4.1" name="Lett bris" />
+				<temperature unit="celsius" value="5" />
+				<pressure unit="hPa" value="1010.8" />
+			</time>
+			<time from="2015-04-17T08:00:00" to="2015-04-17T09:00:00">
+				<!-- Valid from 2015-04-17T08:00:00 to 2015-04-17T09:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="01d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T08:00:00 -->
+				<windDirection deg="305.5" code="NW" name="Nordvest" />
+				<windSpeed mps="3.7" name="Lett bris" />
+				<temperature unit="celsius" value="6" />
+				<pressure unit="hPa" value="1011.2" />
+			</time>
+			<time from="2015-04-17T09:00:00" to="2015-04-17T10:00:00">
+				<!-- Valid from 2015-04-17T09:00:00 to 2015-04-17T10:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="01d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T09:00:00 -->
+				<windDirection deg="310.7" code="NW" name="Nordvest" />
+				<windSpeed mps="3.4" name="Lett bris" />
+				<temperature unit="celsius" value="8" />
+				<pressure unit="hPa" value="1011.5" />
+			</time>
+			<time from="2015-04-17T10:00:00" to="2015-04-17T11:00:00">
+				<!-- Valid from 2015-04-17T10:00:00 to 2015-04-17T11:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="01d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T10:00:00 -->
+				<windDirection deg="324.5" code="NW" name="Nordvest" />
+				<windSpeed mps="3.7" name="Lett bris" />
+				<temperature unit="celsius" value="9" />
+				<pressure unit="hPa" value="1011.7" />
+			</time>
+			<time from="2015-04-17T11:00:00" to="2015-04-17T12:00:00">
+				<!-- Valid from 2015-04-17T11:00:00 to 2015-04-17T12:00:00 -->
+				<symbol number="1" numberEx="1" name="Klarvær" var="01d" />
+				<precipitation value="0" />
+				<!-- Valid at 2015-04-17T11:00:00 -->
+				<windDirection deg="329.5" code="NNW" name="Nord-nordvest" />
+				<windSpeed mps="5.0" name="Lett bris" />
+				<temperature unit="celsius" value="11" />
+				<pressure unit="hPa" value="1012.1" />
+			</time>
+		</tabular>
+	</forecast>
+</weatherdata>
